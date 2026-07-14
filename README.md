@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Link do projeto de extração de dados dos arquivos do Censo Escolar 2025 para exibição nas interfaces web do projeto:
+https://github.com/PHDev10/CensoEsoclarDataApp
